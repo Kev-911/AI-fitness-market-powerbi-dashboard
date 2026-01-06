@@ -23,19 +23,25 @@ This project analyzes the AI-driven fitness market using real-world data to unde
 ## Key Screenshots
 
 ### Market Demand
-![Market Demand](screenshots/01_market_demand.png)
+<img width="1578" height="888" alt="Market Demand" src="https://github.com/user-attachments/assets/a8610cdb-3dc4-4121-8ccf-84c9625026ac" />
+
 
 ### Company Growth
-![Company Growth](screenshots/02_company_growth.png)
+<img width="1575" height="889" alt="Company Growth" src="https://github.com/user-attachments/assets/de67e894-8b46-4c2f-bd79-46964c5487ec" />
+
 
 ### User Engagement
-![User Engagement](screenshots/03_user_engagement.png)
+<img width="1576" height="887" alt="User Engagement" src="https://github.com/user-attachments/assets/638df1b6-847d-4fad-872d-a0cbc26107e8" />
+
 
 ### Data Model
-![Data Model](screenshots/04_data_model.png)
+<img width="1056" height="752" alt="Relationships" src="https://github.com/user-attachments/assets/932360e2-f10a-4482-bd59-2039742b440e" />
+
 
 ### DAX Measures
-![DAX Measures](screenshots/05_dax_measures.png)
+<img width="497" height="763" alt="DAX - 1" src="https://github.com/user-attachments/assets/0f94aa0d-862a-4f3e-96b6-76035954f87d" />
+<img width="470" height="760" alt="DAX - 2" src="https://github.com/user-attachments/assets/8ae21e19-1bc4-4487-9409-7493e004e2d9" />
+
 
 ## Data Sources
 - Google Trends (search interest by topic)
