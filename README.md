@@ -18,7 +18,7 @@ This project analyzes the AI-driven fitness market using real-world data to unde
 ## Files in This Repository
 - `report/` – Project report (PDF)
 - `screenshots/` – Dashboard screenshots, data model, measures
-- `powerbi/` – PBIX file (if included)
+- `powerbi/` – PBIX file 
 
 ## Key Screenshots
 
